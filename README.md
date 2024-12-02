@@ -1,6 +1,7 @@
 # halloween-website-03-12-24 🎃
-## [Watch it on youtube](https://www.youtube.com/@codinggujarat/)
+## [LIVE PREVIEW](https://amanayak.github.io/halloween-website-03-12-24/)
 ### Responsive Halloween Website 🎃
+
 
 - Responsive Halloween Website Using HTML, CSS & JavaScript.
 - Contains animations when scrolling.
